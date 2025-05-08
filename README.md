@@ -26,7 +26,7 @@
 
 ![GitHub_Detective Screenshot](path-to-your-screenshot.png)
 
-> Replace `path-to-your-screenshot.png` with the actual image path or URL
+> Replace `"C:\Users\raush.RAUSHANSATEDH0\Pictures\Screenshots\Screenshot 2025-05-08 185257.png"` with the actual image path or URL
 
 ---
 
